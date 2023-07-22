@@ -1,0 +1,34 @@
+[
+    {
+        "tema"  : "Química",
+        "value" : "a"
+    },
+    {
+        "tema" : "Física",
+        "value" : "b"
+    },
+    {
+        "tema" : "Filosofía",
+        "value" : "c"
+    },
+    {
+        "tema" : "Antropología",
+        "value" : "d"
+    },
+    {
+        "tema" : "Matemáticas",
+        "value" : "e"
+    },
+    {
+        "tema" : "Geografía",
+        "value" : "f"
+    },
+    {
+        "tema" : "Historia",
+        "value" : "g"
+    },
+    {
+        "tema" : "Plomería",
+        "value" : "h"
+    }
+]
